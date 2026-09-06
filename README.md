@@ -29,9 +29,9 @@
 
 ### 📊 GitHub Stats
 
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishnat-13006&theme=midnight-purple&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishnat-13006&theme=midnight-purple&hide_border=true&layout=compact)
+![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant-13006&theme=midnight-purple&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-13006&theme=midnight-purple&hide_border=true&layout=compact)
 
-![Streak Stats](https://streak-stats.demolab.com/?user=Nishnat-13006&theme=midnight-purple&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=Nishant-13006&theme=midnight-purple&hide_border=true)
 
 ---
